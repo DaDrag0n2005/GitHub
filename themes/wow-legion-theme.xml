@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigMaps>
+    <ConfigMap type="Skin">
+        <Meta name="title">World of Warcraft Legion Theme</Meta>
+        <Meta name="description">
+            A World of Warcraft Legion theme for iGoogle.
+        </Meta>
+        <Meta name="author">Drag0n</Meta>
+        <Meta name="author_email">DaDrag0n2005@gmail.com</Meta>
+        <Meta name="full_page_thumbnail.url">
+http://media.blizzard.com/wow/legion-6a153ad2/images/wallpaper-announcement-standard.jpg
+        </Meta>
+    </ConfigMap>
+    <ConfigMap type="Skin">
+      <Attribute name="full_page.background_image.url">
+     http://media.blizzard.com/wow/legion-6a153ad2/images/wallpaper-announcement-standard.jpg
+      </Attribute>
+   </ConfigMap>
+</ConfigMaps>
